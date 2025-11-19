@@ -53,3 +53,8 @@ This software is free to use and distribute.
 
 ## ℹ️ Support  
 If you have issues or suggestions, open an **Issue** on this repository.
+
+## Keywords:
+Photoshop color table editor, color swatches, Windows color tool,
+palette editor, ACT file editor, Adobe color table tool
+
