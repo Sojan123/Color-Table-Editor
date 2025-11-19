@@ -28,8 +28,22 @@ Both versions are standalone, portable executables.
 ---
 
 ## 📷 Screenshots
-(Add your images here)  
-You can upload PNG/JPG directly in GitHub and insert the links.
+
+![001](https://github.com/user-attachments/assets/36192832-ab95-45a9-874c-3f88e2cc3d34)
+
+![002](https://github.com/user-attachments/assets/2424f4bd-551a-4db6-b283-0c56f4f2751d)
+
+![003](https://github.com/user-attachments/assets/de728757-c487-40cf-8806-d628faa806c4)
+
+![004](https://github.com/user-attachments/assets/cf51414f-4b1d-426e-adec-8e55696328e7)
+
+![005](https://github.com/user-attachments/assets/15bda3be-a1d6-4e84-acd0-0d5bb24547e8)
+
+![006](https://github.com/user-attachments/assets/4cea75e9-9a3e-4b90-99e2-c8771fd39f1c)
+
+![007](https://github.com/user-attachments/assets/ba2e5a43-dc7a-4282-8bd6-aac933b784e9)
+
+![Swatch-1](https://github.com/user-attachments/assets/508074d5-4e8f-4c0c-8401-d7e5f6d3c3b7)
 
 ---
 
